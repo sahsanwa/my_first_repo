@@ -1,5 +1,5 @@
 public class Greeting {
     public static void main(String[] args) {
-        System.out.println("Hello from GITHUB");
+        System.out.println("Hello from GITHUB Webhook");
     }
 }
